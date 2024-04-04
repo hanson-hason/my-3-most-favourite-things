@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'consolas';
+    src: url('Consolas.ttf');
+}
+
+@font-face {
+    font-family: 'comicsans';
+    src: url('Comic\ Sans\ MS.ttf')
+}
+
+body {
+    background-color: rgb(210 210 210);
+    border: 10px solid black;
+    width: 700px;
+    margin:auto;
+    padding: 25px 18px;
+    border-radius: 50px;
+}
+
+h1 {
+    color: black;
+    text-align: center;   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(238 37 54);
+    text-align: center;   
+    font-family: 'comicsans';
+    font-size: 40px;
+}
+
+h3 {
+    color:antiquewhite
+}
+
+h4 {
+    font-size: 4px;
+    font-family: 'consolas';
+    line-height: 0.2px;
+    color: rgb(238 37 54);
+    font-weight:bold;
+}
+
+h5 {
+    font-size: 4px;
+    color:white;
+    font-family: 'consolas';
+    line-height: 0.2px;
+    font-weight:bold;
+    text-decoration: underline;
+
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-family: 'comicsans'
+}
+
+ol {
+    font-family: 'comicsans'
+}
+
+p {
+    font-family: 'comicsans'
+}
+
+a {
+    color:dimgray;
+}
+
