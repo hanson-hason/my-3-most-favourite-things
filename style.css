@@ -8,6 +8,11 @@
     src: url('Comic\ Sans\ MS.ttf')
 }
 
+html {
+    background-image: url(Image/utopia.webp);
+    background-size: 500px; 
+}
+
 body {
     background-color: rgb(210 210 210);
     border: 10px solid black;
